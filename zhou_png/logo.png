@@ -1,0 +1,62 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<meta name="twcClient" content="false" id="twcClient">
+<title>易安居吉祥网</title>
+<link rel=stylesheet type=text/css href="2018style/css/style.css"/>
+<link rel=stylesheet type=text/css href="2018style/css/m_style.css"/>
+<script type="text/javascript" src="2018style/js/time.js"></script>
+<script type="text/javascript"> 
+try { 
+  var urlhash = window.location.hash; 
+  if (!urlhash.match("fromapp")) { 
+    if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i))) { 
+      window.location="https://m.zhouyi.cc"; 
+    } 
+  } 
+} 
+catch(err) { }
+</script>
+<!----------------------------------------统计代码开始--------------------------------------------->
+<script type="text/javascript">
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5adac0d418e0b76d26baf344edb7eafd";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+<div class="top"></div>
+<div class="header">
+	<div class="bug1">
+        <div class="logo fl"><a href="/"><img src="2018style/images/logo.png" alt="logo"  /></a></div>
+        <div class="time fr" id="currentDate" ></div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="bg"></div>
+<div class="weizhi">
+	<span>易明居关于我们：</span>
+</div>
+<div class="main">
+    <div class="content">
+易明居吉祥网是广州易明居文化用品有限公司旗下品牌，传统吉祥文化企业，致力于中国吉祥文化和吉祥饰品的传播和推广。企业文化：感恩生命、关爱生活、圆满人生；企业目标：求真务实、自主创新、服务市场、共创双赢；企业方针：用高科技铸造知名品牌、不断进取、精益求精；企业理念：以创新求发展、以诚信为根本、以质量为生命。
+    </div>
+</div><div class="weizhi">	<span>易明居文化用品联系我们：</span></div><div class="main">    <div class="content">		<div class="lianxi">公司名称：广州易明居文化用品有限公司</div>		<div class="lianxi">公司地址：广州市海珠区工业大道中石岗路</div>		   </div></div>
+<div class="footer">
+	<div class="bg"></div>
+    <div class="foot_main">广州易明居文化用品有限公司 <a href="https://beian.miit.gov.cn/" target="_blank" style="color:#fff;">粤ICP备14056566号</a></div>
+</div>
+</body>
+</html>
+
